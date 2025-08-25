@@ -59,6 +59,26 @@ body {
   text-align: left;
   background-color: #fff; }
 
+  /* profile icon */
+  /* Social Icons in Navbar */
+.navbar .nav-link i {
+  font-size: 18px;
+  color: #ffc107;        /* default white */
+  transition: color 0.3s;
+}
+
+.navbar .nav-link i.fa-linkedin:hover {
+  color: #0e76a8;     /* LinkedIn blue */
+}
+
+.navbar .nav-link i.fa-whatsapp:hover {
+  color: #25D366;     /* WhatsApp green */
+}
+
+.navbar .nav-link i.fa-github:hover {
+  color: #ffffff;     /* LinkedIn white */
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
