@@ -32,14 +32,15 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
 
 1. Live Demo : [Portfolio Website](https://niranjandascp.github.io/Portfolio/)
 
-2. GitHub Repository: [ Portfolio Repo](https://github.com/niranjandascp/Portfolio.git) 
+2. GitHub Repository: [ Portfolio Repo](https://github.com/niranjandascp/Portfolio) 
 ---
 ## 📂 Installation & Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Portfolio.git
+   git clone https://github.com/niranjandascp/Portfolio.git
    cd portfolio
+   code .
 2. Open the folder in VS Code
 
 3. Install Live Server extension
